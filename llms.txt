@@ -23,6 +23,9 @@
 - [Air Conditioning Repair Newton](https://local-business-guides.github.io/full-spectrum-hvac-service-newton/air-conditioning-repair-newton/): Air Conditioning Repair Newton homeowners can turn to Full Spectrum HVAC Service for help assessing AC trouble. Call today to discuss service in Newton.
 - [Air Conditioning Installation Newton](https://local-business-guides.github.io/full-spectrum-hvac-service-newton/air-conditioning-installation-newton/): Plan Air Conditioning Installation Newton with Full Spectrum HVAC Service. Discuss your cooling needs in Newton and call today to talk through the project.
 
+## Newsroom
+- [Full Spectrum HVAC Service Publishes Guide to Newton HVAC Services](https://local-business-guides.github.io/full-spectrum-hvac-service-newton/news/2026-11-07-full-spectrum-hvac-service-publishes-guide-to/): Full Spectrum HVAC Service has published a Newton HVAC Services guide, with companion video, podcast and audio versions. (2026-11-07)
+
 ## Pages
 - [Newton HVAC Services in Massachusetts](https://local-business-guides.github.io/full-spectrum-hvac-service-newton/): Get thoughtful HVAC help from Full Spectrum HVAC Service, serving customers throughout Newton, Massachusetts. Call +1857-855-9800.
 - [About Full Spectrum HVAC Service](https://local-business-guides.github.io/full-spectrum-hvac-service-newton/about/): About Full Spectrum HVAC Service, Newton.
@@ -30,4 +33,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/full-spectrum-hvac-service-newton/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/full-spectrum-hvac-service-newton/news/rss.xml)
 - [Main resource site](https://full-spectrum-hvac-newton.localbusinesses1.chatgpt.site)

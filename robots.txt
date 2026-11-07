@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://local-business-guides.github.io/full-spectrum-hvac-service-newton/sitemap.xml
+Sitemap: https://local-business-guides.github.io/full-spectrum-hvac-service-newton/news-sitemap.xml
